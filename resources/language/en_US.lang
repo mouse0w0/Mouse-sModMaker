@@ -1,0 +1,26 @@
+#English
+#by:╨двс
+language=English(US)
+###################
+yes=Yes
+no=No
+ok=Ok
+cancel=Cancel
+save=Save
+closed=Closed
+warning=Warning
+error=Error
+information=Information
+#####################
+tab.home=Home
+tab.work=Workspace
+tab.tool=Tool
+tab.cmd=Command
+#####################
+config.basic=Basic
+config.language=Language
+config.workspace=Workspace File
+#####################
+work.item=Item
+#####################
+cmd.clear.info=Clear the screen
